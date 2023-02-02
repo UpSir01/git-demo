@@ -6,5 +6,5 @@ hello git!
 hello git!
 hello git!
 wushangjian 
-wushangjian master
-wushangjian 
+wushangjian master 
+wushangjian  hot-fix 
